@@ -1,0 +1,22 @@
+.jumbotron-header {
+    background-color: #007bff;
+    color: white;
+}
+
+.jumbotron-footer {
+    text-align: center;
+    margin-top: 1rem;
+    background-color: rgba(233, 236, 239, 0.333);
+}
+
+.badge {
+    border: 1px solid black;
+}
+
+.row {
+    padding: 0.5rem;
+}
+
+ul {
+    padding: 1rem;
+}
